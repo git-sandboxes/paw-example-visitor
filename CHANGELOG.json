@@ -1,13 +1,37 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-16T08:07:56Z",
-    "currentVersion": "0.1.1",
+    "lastUpdated": "2026-10-16T08:11:53Z",
+    "currentVersion": "0.2.0",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 1
+    "totalReleases": 2
   },
   "releases": [
+    {
+      "version": "0.2.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-16",
+      "pr_number": 1,
+      "raw_summary": "### ✨ Features\n- friendlier greeting\n\n### 🔧 Changes\n- Change greeting from 'Hello' to 'Hi'",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ Features",
+          "items": [
+            "friendlier greeting"
+          ]
+        },
+        "changes": {
+          "title": "🔧 Changes",
+          "items": [
+            "Change greeting from 'Hello' to 'Hi'"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "0.1.1",
       "project_types": [
