@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-16T08:07:56Z",
+    "currentVersion": "0.1.1",
+    "projectTypes": [
+      "node"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "0.1.1",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-16",
+      "pr_number": null,
+      "raw_summary": "### 🔧 Changes\n- #429 수정본 재설치\n- project-auto-wizard 설치",
+      "parsed_changes": {
+        "changes": {
+          "title": "🔧 Changes",
+          "items": [
+            "#429 수정본 재설치",
+            "project-auto-wizard 설치"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
